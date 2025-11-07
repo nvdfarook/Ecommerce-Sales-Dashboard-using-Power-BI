@@ -1,6 +1,7 @@
 # 🛍️ E-Commerce Sales Dashboard – Power BI Project
 
-![Ecommerce Sales Dashboard]("C:\Users\NaveedFarook\Pictures\Screenshots\Screenshot (148).png")
+![Ecommerce Sales Dashboard](<img width="1154" height="815" alt="Screenshot (148)" src="https://github.com/user-attachments/assets/3f30c748-d655-4330-aedb-037698b3748d" />
+)
 
 ## 📊 Project Overview
 
@@ -109,5 +110,5 @@ Implemented **Advanced DAX** for time intelligence and dynamic calculations:
 
 ---
 
-## 🧾 Project Structure
+
 
